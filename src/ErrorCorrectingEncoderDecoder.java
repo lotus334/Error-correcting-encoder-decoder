@@ -31,4 +31,3 @@ public class ErrorCorrectingEncoderDecoder {
         return encrypted.toString();
     }
 }
-}
